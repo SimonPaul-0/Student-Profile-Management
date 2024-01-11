@@ -31,9 +31,9 @@ This Python program, "StudentProfileManagement," allows users to input details o
 ## Author
 
 [Simon Paul]
-Contributions
+## Contributions
 
-## Contributions are welcome. If you have suggestions or improvements, feel free to submit a pull request.
+Contributions are welcome. If you have suggestions or improvements, feel free to submit a pull request.
 ## License
 
 This project is licensed under the MIT License.
