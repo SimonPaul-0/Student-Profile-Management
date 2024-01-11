@@ -1,8 +1,8 @@
-#Student Profile Management
-##Overview
+# Student Profile Management
+## Overview
 
 This Python program, "StudentProfileManagement," allows users to input details of a student and create a profile for them. The program includes features to add, view, and manage student profiles.
-##Features
+## Features
 
     Add Student Profile: Input essential details such as name, age, gender, and contact information to create a comprehensive student profile.
 
@@ -10,7 +10,7 @@ This Python program, "StudentProfileManagement," allows users to input details o
 
     Profile Management: Efficiently manage student profiles, ensuring easy access to information and updates.
 
-##How to Use
+## How to Use
 
     Run the program by executing the Python script (student_profile_management.py).
 
@@ -22,18 +22,18 @@ This Python program, "StudentProfileManagement," allows users to input details o
 
     Explore the user-friendly interface designed for easy interaction.
 
-##Notes
+## Notes
 
     The program ensures data integrity and user-friendly interactions.
 
     Feel free to customize and extend the functionality based on your specific needs.
 
-##Author
+## Author
 
 [Simon Paul]
 Contributions
 
-##Contributions are welcome. If you have suggestions or improvements, feel free to submit a pull request.
-##License
+## Contributions are welcome. If you have suggestions or improvements, feel free to submit a pull request.
+## License
 
 This project is licensed under the MIT License.
