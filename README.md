@@ -29,4 +29,4 @@ Contributions are welcome. If you have suggestions or improvements, feel free to
 
 This project is licensed under the MIT License.
 
-Feel free to customize this program based on your specific project details.
+Feel free to contribute, report issues, explore the code, and customize this program based on your specific project details.
